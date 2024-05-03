@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# sets up the web servers for the deployment of web_static
+# setting up the web servers to run up a dynamic web
 
 sudo apt-get -y update
 sudo apt-get -y upgrade
